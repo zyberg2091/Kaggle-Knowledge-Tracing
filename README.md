@@ -1,6 +1,6 @@
 # Knowledge-Tracing (In-Progress)
 
-I have used Microsoft's LightBGM model for knowledge tracing as it overperformed the XGBOOST model in terms of accuracy.
+I have used Microsoft's LightGBM model for knowledge tracing as it overperformed the XGBOOST model in terms of accuracy.
 
 **Riiid AIEd Challenge 2020**
 
